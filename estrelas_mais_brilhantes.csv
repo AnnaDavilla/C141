@@ -1,0 +1,94 @@
+,Nome da estrela,Constelação,Magnitude Ap.,Bayer,Classificação,Distância
+0,Sol,nenhuma,-26.74,nenhuma,G2 V,"0,000015813"
+1,Sirius,Cão Maior,−1.46,αCMa,"A0mA1 Va, DA2","8,6"
+2,Canopus,Quilha,−0.74,αCar,A9 II,310
+3,Alpha Centauri / Rigel Kent,Centauro,−0.27  (0.01 + 1.33),αCen,"G2 V, K1 V","4,4"
+4,Arcturus,Boieiro,−0.05,αBoo,K0 III,37
+5,Vega,Lira,0.03 (−0.02–0.07var),αLyr,A0 Va,25
+6,Capella,Auriga / Cocheiro,0.08 (0.03–0.16var),αAur,"K0 III, G1 III",43
+7,Rigel,Orion,0.13 (0.05–0.18var),βOri,B8 Ia,860
+8,Procyon,Cão Menor,0.34,αCMi,F5 IV-V,11
+9,Achernar,Erídano,0.46 (0.40–0.46var),αEri,B6 Vep,139
+10,Betelgeuse,Orion,0.50 (0.0–1.6var),αOri,M1-M2 Ia-ab,700
+11,Hadar,Centauro,0.61,βCen,B1 III,390
+12,Altair,Águia,0.76,αAql,A7 V,17
+13,Acrux / Estrela de Magalhães,Cruzeiro do Sul,0.76 (1.33 + 1.73),αCru,"B0.5 IV, B1 V",320
+14,Aldebaran,Touro,0.86 (0.75–0.95var),αTau,K5 III,65
+15,Antares,Escorpião,0.96 (0.6–1.6var),αSco,"M1.5 Iab-Ib, B2.5 V",550
+16,Spica,Virgem,0.97 (0.97–1.04var),αVir,"B1 III-IV, B2 V",250
+17,Pólux,Gêmeos,1.14,βGem,K0 III,34
+18,Fomalhaut,Peixe Austral,1.16,αPsA,A3 V,25
+19,Deneb,Cisne,1.25 (1.21–1.29var),αCyg,A2 Ia,2.615
+20,Becrux / Mimosa,Cruzeiro do Sul,1.25 (1.23–1.31var),βCru,"B0.5 III, B2 V",280
+21,Regulus,Leão,1.39,αLeo,B8 IVn,79
+22,Adhara,Cão Maior,1.50,εCMa,B2 II,430
+23,Shaula,Escorpião,1.62,λSco,B2 IV,570
+24,Castor,Gêmeos,1.62 (1.98 + 2.97),αGem,"A1 V, Am",52
+25,Gacrux / Rubídea,Cruzeiro do Sul,1.64,γCru,M3.5 III,88
+26,Bellatrix,Orion,1.64,γOri,B2 III,240
+27,Alnath,Touro,1.65,βTau,B7 III,130
+28,Miaplacidus,Quilha,1.69,βCar,A1 III,110
+29,Alnilan,Orion,1.69 (1.64–1.74var),εOri,B0 Ia,1.344
+30,Regor,Velame,1.72 (1.81–1.87var + 4.27),"γ1,2Vel","WC8, O7.5III",840
+31,Alnair,Grou,1.74,αGru,B6 V,100
+32,Alioth,Ursa Maior,1.77,εUMa,A1 III-IVp kB9,81
+33,Alnitak,Orion,1.77,ζOri,"O9.5 Iab, B1 IV, B0 III",820
+34,Dubhe,Ursa Maior,1.79,αUMa,"K0 III, F0 V",120
+35,Mirfak,Perseu,1.80,αPer,F5 Ib,590
+36,Wezen,Cão Maior,1.82,δCMa,F8 Ia,1.607
+37,Sargas,Escorpião,1.84,θSco,F0 II,270
+38,Kaus Australis,Sagitário / Arqueiro,1.85,εSgr,B9.5 III,140
+39,Avior,Quilha,1.86,εCar,"K3 III, B2 Vp",630
+40,Alkaid,Ursa Maior,1.86,ηUMa,B3 V,100
+41,Menkalinan,Auriga / Cocheiro,1.90 (1.89–1.94var),βAur,A1mIV+A1mIV,100
+42,Atria,Triângulo austral,1.91,αTrA,K2 IIb-IIIa,420
+43,Alhena,Gêmeos,1.92,γGem,A1.5 IV+,100
+44,Peacock,Pavão,1.94,αPav,B3 V,180
+45,Alsephina,Velame,1.96 (1.99–2.39var + 5.57),δVel,"A1 Va(n), F7.5 V",80
+46,Mirzam,Cão Maior,1.98,βCMa,B1 II-III,500
+47,Alphard,Hidra Fêmea,2.00,αHya,K3 II-III,180
+48,Polaris,Ursa Menor,1.98 (1.86–2.13var),αUMi,F7 Ib,430
+49,Hamal,Áries / Carneiro,2.00,αAri,K1 IIIb,66
+50,Algieba,Leão,2.08 (2.37 + 3.64),γ1Leo,"K0 III, G7 IIIb",130
+51,Diphda,Monstro Marinho,2.02,βCet,K0 III,96
+52,Mizar,Ursa Maior,2.04,ζUMa,"A2 Vp, A2 Vp, Am",78
+53,Nunki,Sagitário / Arqueiro,2.05,sigma,B2.5 V,220
+54,Menkent,Centauro,2.06,θCen,K0 III,61
+55,Mirach,Andrômeda,2.05 (2.01–2.10var),βAnd,M0 III,200
+56,Alpheratz,Andrômeda,2.06,αAnd,"B8 IVpMnHg, A3 V",97
+57,Rasalhague,Serpentário,2.07,αOph,A5 III,47
+58,Kochab,Ursa Menor,2.08,βUMi,K4 III,130
+59,Saiph,Orion,2.09,κOri,B0.5 Ia,720
+60,Denebola,Leão,2.11,βLeo,A3 Va,36
+61,Algol,Perseu,2.12 (2.1–3.39var),βPer,"B8 V, K0 IV, A7m",93
+62,Tiaki,Grou,2.15 (2.0–2.3var),βGru,M5 III,170
+63,Muhilfain,Centauro,2.17,γCen,"A0 III, A0 III",130
+64,Aspidiske,Quilha,2.21,ιCar,A9 Ib,690
+65,Suhail,Velame,2.21 (2.14–2.30var),λVel,K4 Ib,570
+66,Alphecca,Coroa do norte,2.23 (2.21–2.32var),αCrB,"A0 V, G5 V",75
+67,Mintaka,Orion,2.23 (2.23–2.35var),δOri,"O9.5 II, B1 V, B0 IV",900
+68,Sadr,Cisne,2.23,γCyg,F8 Iab,1.826
+69,Eltanin,Dragão,2.23,γDra,K5 III,150
+70,Shedar,Cassiopeia,2.24,αCas,K0 IIIa,230
+71,Naos,Poupa,2.25,ζPup,O4 If(n)p,1.076
+72,Almach,Andrômeda,2.26,γAnd,"K3 IIb, B9.5 V, B9.5 V, A0 V",350
+73,Caph,Cassiopeia,2.28 (2.25–2.31var),βCas,F2 III,54
+74,Izar,Boieiro,2.29,εBoo,"K0 II-III, A2 V",202
+75,---,Lobo,2.30 (2.29–2.34var),αLup,B1.5 III,550
+76,---,Centauro,2.30 (2.29–2.31var),εCen,B1III,380
+77,Dschubba,Escorpião,2.31 (1.6–2.32var),δSco,"B0.3 IV, B1-3 V",400
+78,Larawag,Escorpião,2.31,εSco,K1 III,65
+79,---,Centauro,2.35 (2.30–2.41var),ηCen,B1.5 Vne,310
+80,Merak,Ursa Maior,2.37,βUMa,A1 IVps,79
+81,Ankaa,Fênix,2.38,αPhe,K0.5 IIIb,77
+82,Girtab,Escorpião,2.39,κSco,B1.5 III,460
+83,Enif,Pégaso,2.40 (0.7–3.0var),εPeg,K2 Ib,670
+84,Scheat,Pégaso,2.42 (2.31–2.74var),βPeg,M2.5 II-IIIe,200
+85,Sabik,Serpentário,2.43,ηOph,"A1 IV, A1 IV",88
+86,Phecda,Ursa Maior,2.44,γUMa,A0 Ve,84
+87,Aludra,Cão Maior,2.45,ηCMa,B5 Ia,2.000
+88,Markeb,Velame,2.46,κVel,B2 IV,540
+89,Navi,Cassiopeia,2.47 (1.6–3.0var),γCas,B0.5 IVe,610
+90,Markab,Pégaso,2.48,αPeg,A0 IV,140
+91,Aljanah,Cisne,2.48,εCyg,K0 III-IV,72
+92,Acrab,Escorpião,2.50,βSco,"B0.5 IV-V, B1.5 V, B2 V",404
